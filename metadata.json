@@ -1,0 +1,6 @@
+{
+  "name": "FarmSage AI",
+  "description": "Evidence-driven smart farming assistant with real computer-vision image processing, adaptive agent decisions, and multi-lingual voice guidance.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
